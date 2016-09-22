@@ -1,0 +1,24 @@
+Begin:
+durActive_half: 0.133000, durSleep: 1.862000. cycle time: (14+2)*0.133000=2.128000.(in "gmac->init")
+duty cycle:0.125000.
+End1: Node 1 sent 10 packets.
+All soruces totally sent 10 packets. (in "gsrc->end")
+Simulation time: 213.245001 s.
+End.
+
+Begin:
+durActive_half: 0.133000, durSleep: 1.862000. cycle time: (14+2)*0.133000=2.128000.(in "gmac->init")
+duty cycle:0.125000.
+End1: Node 1 sent 1134 packets.
+All soruces totally sent 1134 packets. (in "gsrc->end")
+Simulation time: 7260.000000 s.
+End.
+
+Begin:
+durActive_half: 0.133000, durSleep: 1.862000. cycle time: (14+2)*0.133000=2.128000.(in "gmac->init")
+duty cycle:0.125000.
+End1: Node 1 sent 470 packets.
+All soruces totally sent 470 packets. (in "gsrc->end")
+Simulation time: 2364.653001 s.
+End.
+

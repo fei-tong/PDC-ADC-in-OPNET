@@ -1,0 +1,80 @@
+OPC_INTRPT_STAT
+
+/* Issue a transmission complete stat once the packet has successfully 	*/
+/* been transmitted from the source station								*/						 
+#define TRANSMISSION_COMPLETE	(intrpt_type == OPC_INTRPT_STAT && \
+								 op_intrpt_stat () == TRANSMITTER_BUSY_INSTAT)
+
+
+/* Macros that check the change in the busy status of the receiver.	   	*/
+#define	RECEIVER_BUSY_HIGH		(intrpt_type == OPC_INTRPT_STAT && intrpt_code < TRANSMITTER_BUSY_INSTAT && \
+								 op_stat_local_read (intrpt_code) > rx_power_threshold && !wlan_flags->collision)
+
+#define	RECEIVER_BUSY_LOW		(((intrpt_type == OPC_INTRPT_STAT && intrpt_code < TRANSMITTER_BUSY_INSTAT) || 			\
+								  (intrpt_type == OPC_INTRPT_STRM && i_strm != instrm_from_mac_if)			   ) && 	\
+	                             !wlan_flags->receiver_busy)
+
+
+
+//º¯Êý
+wlan_interrupts_process
+
+  wlan_mac_rcv_channel_status_update
+  wlan_physical_layer_data_arrival
+
+
+
+/* This structure contains all the flags used in this process model to determine	*/
+/* various conditions as mentioned in the comments for each flag					*/
+typedef struct WlanT_Mac_Flags
+	{
+	Boolean 	data_frame_to_send; /* Flag to check when station needs to transmit.		*/ 
+	Boolean     backoff_flag;  	    /* Backoff flag is set when either the collision is		*/
+	                                /* inferred or the channel switched from busy to idle	*/
+	Boolean		frame_size_req_rts;	/* Flag that is set when the current frame in process	*/
+									/* of transmission is larger than the RTS threshold.	*/
+	Boolean		rts_sent;   		/* Flag to indicate that whether the RTS for this		*/
+								    /* particular data frame is sent and CTS is received.	*/
+	Boolean		rcvd_bad_packet;	/* Flag to indicate that the received packet is bad		*/
+	Boolean		bad_packet_dropped;	/* Set this flag if the received packet is marked as 	*/
+									/* bad and dropped by this MAC. This flag is used only 	*/
+									/* when we are transmitting a frame.					*/
+    Boolean	    receiver_busy;		/* Set this flag if receiver busy stat is enabled		*/	
+    Boolean	    transmitter_busy;	/* Set this flag if we are transmitting something.		*/	
+	Boolean		wait_eifs_dur;		/* Set this flag if the station needs to wait for eifs	*/
+									/* duration.											*/	
+	Boolean		gateway_flag;		/* Set this flag if the station is a gateway.			*/
+	Boolean		bridge_flag;		/* Set this flag if the station is a bridge				*/
+	Boolean		immediate_xmt;		/* Set this flag if the new frame can be transmitted	*/
+									/* without deferring.									*/
+	Boolean		forced_bk_end;		/* Special case: resume with completion of back-off (or	*/
+									/* CW) period regardless of receiver's status.			*/
+	Boolean		cw_required;		/* Indicates that the MAC is in contention window		*/
+									/* period following a successful transmission.			*/
+	Boolean		perform_cw;			/* Flag that triggers backoff process for CW period.	*/
+	Boolean		nav_updated;		/* Indicates a new NAV value since the last time when	*/
+									/* self interrupt is scheduled for the end of deference.*/
+	Boolean		collision;			/* Set this flag if a channel became busy while another	*/
+									/* one busy.											*/
+	Boolean		duration_zero;		/* Set this flag if duration should be zero in next ack	*/
+	Boolean		ignore_busy;		/* Set this flag if the STA should ignore receiver busy	*/
+	Boolean		tx_beacon;          /* Set this flag if time to send a beacon               */
+	Boolean		tx_cf_end;          /* Set this flag if time to send a CF End frame         */
+	Boolean		pcf_active;         /* Set this flag for AP if PCF is currently in effect	*/
+	Boolean		polled;		        /* Set this flag if the station has received a poll     */
+	Boolean		more_data;			/* Set this flag if must poll for more data (MSDU)		*/
+	Boolean		more_frag;			/* Set this flag if must poll for more fragments		*/
+	Boolean		pcf_side_traf;		/* Set this flag if the AP detects STA to STA traffic   */
+	Boolean		active_poll;		/* Set this flag if an active poll is outstanding		*/
+	Boolean		scanning;			/* Set this flag while running the scanning procedure	*/
+									/* to look for a new access point connectivity.			*/
+	Boolean		non_erp_present;	/* Set this flag if we are an ERP STA and our BSS has	*/
+									/* at least one non-ERP STA.							*/
+	Boolean		cts_to_self;		/* Set this flag if the optional 11g CTS-to-self		*/
+									/* protection mechanism is enabled for this MAC.		*/
+	Boolean		wait_signal_ext;	/* Set if current tx requires 11g signal extension.		*/
+	Boolean		rcvd_bad_cts;		/* Set if a reception is detected during the last		*/
+									/* CTS-to-self transmission.							*/
+	Boolean		pcf_lowered_drate;	/* Set by an 11g AP, if the data rate of current tx is	*/
+									/* lowered due to a piggybacked ACK for a non-ERP STA.	*/
+	} WlanT_Mac_Flags;

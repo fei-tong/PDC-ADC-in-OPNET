@@ -1,0 +1,1056 @@
+Begin:
+durActive_half: 0.109000, durSleep: 1.962000. cycle time: (18+2)*0.109000=2.180000.(in "gmac->init")
+duty cycle:0.100000.
+End1: Node 1 sent 1176 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 2 sent 1228 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 3 sent 1211 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 4 sent 1228 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 5 sent 1258 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 6 sent 1236 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 7 sent 1202 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 8 sent 1223 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 9 sent 1178 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 10 sent 1229 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 11 sent 1196 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 12 sent 1176 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 13 sent 1269 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 14 sent 1133 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 15 sent 1197 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 16 sent 1147 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 17 sent 1160 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 18 sent 1232 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 19 sent 1197 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 20 sent 1217 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 21 sent 1150 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 22 sent 1171 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 23 sent 1234 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 24 sent 1186 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 25 sent 1236 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 26 sent 1162 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 27 sent 1218 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 28 sent 1177 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 29 sent 1184 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 30 sent 1223 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 31 sent 1265 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 32 sent 1198 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 33 sent 1221 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 34 sent 1203 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 35 sent 1216 packets.
+All soruces totally sent 42137 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+Begin:
+durActive_half: 0.109000, durSleep: 1.962000. cycle time: (18+2)*0.109000=2.180000.(in "gmac->init")
+duty cycle:0.100000.
+End1: Node 1 sent 1163 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 2 sent 1146 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 3 sent 1214 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 4 sent 1189 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 5 sent 1206 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 6 sent 1177 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 7 sent 1161 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 8 sent 1148 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 9 sent 1171 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 10 sent 1188 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 11 sent 1151 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 12 sent 1168 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 13 sent 1157 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 14 sent 1205 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 15 sent 1209 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 16 sent 1122 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 17 sent 1233 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 18 sent 1154 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 19 sent 1155 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 20 sent 1189 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 21 sent 1206 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 22 sent 1141 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 23 sent 1240 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 24 sent 1225 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 25 sent 1197 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 26 sent 1236 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 27 sent 1278 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 28 sent 1246 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 29 sent 1152 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 30 sent 1213 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 31 sent 1221 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 32 sent 1249 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 33 sent 1171 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 34 sent 1224 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 35 sent 1152 packets.
+All soruces totally sent 41657 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+Begin:
+durActive_half: 0.109000, durSleep: 1.962000. cycle time: (18+2)*0.109000=2.180000.(in "gmac->init")
+duty cycle:0.100000.
+End1: Node 1 sent 1207 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 2 sent 1129 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 3 sent 1250 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 4 sent 1151 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 5 sent 1230 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 6 sent 1233 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 7 sent 1118 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 8 sent 1199 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 9 sent 1195 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 10 sent 1201 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 11 sent 1161 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 12 sent 1218 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 13 sent 1160 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 14 sent 1242 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 15 sent 1172 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 16 sent 1169 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 17 sent 1195 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 18 sent 1156 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 19 sent 1176 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 20 sent 1221 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 21 sent 1210 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 22 sent 1213 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 23 sent 1208 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 24 sent 1217 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 25 sent 1236 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 26 sent 1227 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 27 sent 1147 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 28 sent 1217 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 29 sent 1209 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 30 sent 1212 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 31 sent 1196 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 32 sent 1214 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 33 sent 1147 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 34 sent 1205 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 35 sent 1230 packets.
+All soruces totally sent 41871 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+Begin:
+durActive_half: 0.109000, durSleep: 1.962000. cycle time: (18+2)*0.109000=2.180000.(in "gmac->init")
+duty cycle:0.100000.
+End1: Node 1 sent 1214 packets.
+All soruces totally sent 6089 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 2 sent 1269 packets.
+All soruces totally sent 6089 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 3 sent 1156 packets.
+All soruces totally sent 6089 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 4 sent 1262 packets.
+All soruces totally sent 6089 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+End1: Node 5 sent 1188 packets.
+All soruces totally sent 6089 packets. (in "gsrc->end")
+Simulation time: 65000.000000 s.
+End.
+
+Begin:
+durActive_half: 0.165000, durSleep: 2.970000. cycle time: (18+2)*0.165000=3.300000.(in "gmac->init")
+duty cycle:0.100000.
+End1: Node 1 sent 993 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 2 sent 995 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 3 sent 1008 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 4 sent 990 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 5 sent 999 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 6 sent 1021 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 7 sent 977 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+Begin:
+durActive_half: 0.165000, durSleep: 2.970000. cycle time: (18+2)*0.165000=3.300000.(in "gmac->init")
+duty cycle:0.100000.
+End1: Node 1 sent 403 packets.
+All soruces totally sent 2754 packets. (in "gsrc->end")
+Simulation time: 24192.173000 s.
+End.
+
+End1: Node 2 sent 386 packets.
+All soruces totally sent 2754 packets. (in "gsrc->end")
+Simulation time: 24192.173000 s.
+End.
+
+End1: Node 3 sent 402 packets.
+All soruces totally sent 2754 packets. (in "gsrc->end")
+Simulation time: 24192.173000 s.
+End.
+
+End1: Node 4 sent 374 packets.
+All soruces totally sent 2754 packets. (in "gsrc->end")
+Simulation time: 24192.173000 s.
+End.
+
+End1: Node 5 sent 382 packets.
+All soruces totally sent 2754 packets. (in "gsrc->end")
+Simulation time: 24192.173000 s.
+End.
+
+End1: Node 6 sent 427 packets.
+All soruces totally sent 2754 packets. (in "gsrc->end")
+Simulation time: 24192.173000 s.
+End.
+
+End1: Node 7 sent 380 packets.
+All soruces totally sent 2754 packets. (in "gsrc->end")
+Simulation time: 24192.173000 s.
+End.
+
+Begin:
+durActive_half: 0.165000, durSleep: 2.970000. cycle time: (18+2)*0.165000=3.300000.(in "gmac->init")
+duty cycle:0.100000.
+Begin:
+durActive_half: 0.165000, durSleep: 2.970000. cycle time: (18+2)*0.165000=3.300000.(in "gmac->init")
+duty cycle:0.100000.
+End1: Node 1 sent 993 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 2 sent 995 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 3 sent 1008 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 4 sent 990 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 5 sent 999 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 6 sent 1021 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 7 sent 977 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+Begin:
+durActive_half: 0.165000, durSleep: 2.970000. cycle time: (18+2)*0.165000=3.300000.(in "gmac->init")
+duty cycle:0.100000.
+End1: Node 1 sent 1514 packets.
+All soruces totally sent 20998 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 2 sent 1537 packets.
+All soruces totally sent 20998 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 3 sent 1443 packets.
+All soruces totally sent 20998 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 4 sent 1453 packets.
+All soruces totally sent 20998 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 5 sent 1467 packets.
+All soruces totally sent 20998 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 6 sent 1513 packets.
+All soruces totally sent 20998 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 7 sent 1505 packets.
+All soruces totally sent 20998 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 8 sent 1514 packets.
+All soruces totally sent 20998 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 9 sent 1537 packets.
+All soruces totally sent 20998 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 10 sent 1477 packets.
+All soruces totally sent 20998 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 11 sent 1517 packets.
+All soruces totally sent 20998 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 12 sent 1540 packets.
+All soruces totally sent 20998 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 13 sent 1426 packets.
+All soruces totally sent 20998 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 14 sent 1555 packets.
+All soruces totally sent 20998 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+Begin:
+durActive_half: 0.165000, durSleep: 2.970000. cycle time: (18+2)*0.165000=3.300000.(in "gmac->init")
+duty cycle:0.100000.
+End1: Node 1 sent 993 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 2 sent 995 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 3 sent 1008 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 4 sent 990 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 5 sent 999 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 6 sent 1021 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 7 sent 977 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+Begin:
+durActive_half: 0.165000, durSleep: 2.970000. cycle time: (18+2)*0.165000=3.300000.(in "gmac->init")
+duty cycle:0.100000.
+End1: Node 1 sent 993 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 2 sent 995 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 3 sent 1008 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 4 sent 990 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 5 sent 999 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 6 sent 1021 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 7 sent 977 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+Begin:
+durActive_half: 0.165000, durSleep: 2.970000. cycle time: (18+2)*0.165000=3.300000.(in "gmac->init")
+duty cycle:0.100000.
+End1: Node 1 sent 993 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 2 sent 995 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 3 sent 1008 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 4 sent 990 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 5 sent 999 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 6 sent 1021 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 7 sent 977 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+Begin:
+durActive_half: 0.165000, durSleep: 2.970000. cycle time: (18+2)*0.165000=3.300000.(in "gmac->init")
+duty cycle:0.100000.
+End1: Node 1 sent 993 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 2 sent 995 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 3 sent 1008 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 4 sent 990 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 5 sent 999 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 6 sent 1021 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 7 sent 977 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+Begin:
+durActive_half: 0.165000, durSleep: 2.970000. cycle time: (18+2)*0.165000=3.300000.(in "gmac->init")
+duty cycle:0.100000.
+End1: Node 1 sent 993 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 2 sent 995 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 3 sent 1008 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 4 sent 990 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 5 sent 999 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 6 sent 1021 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 7 sent 977 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+Begin:
+durActive_half: 0.165000, durSleep: 2.970000. cycle time: (18+2)*0.165000=3.300000.(in "gmac->init")
+duty cycle:0.100000.
+End1: Node 1 sent 993 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 2 sent 995 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 3 sent 1008 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 4 sent 990 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 5 sent 999 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 6 sent 1021 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 7 sent 977 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+Begin:
+durActive_half: 0.165000, durSleep: 2.970000. cycle time: (18+2)*0.165000=3.300000.(in "gmac->init")
+duty cycle:0.100000.
+End1: Node 1 sent 993 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 2 sent 995 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 3 sent 1008 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 4 sent 990 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 5 sent 999 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 6 sent 1021 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 7 sent 977 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+Begin:
+durActive_half: 0.165000, durSleep: 2.970000. cycle time: (18+2)*0.165000=3.300000.(in "gmac->init")
+duty cycle:0.100000.
+End1: Node 1 sent 993 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 2 sent 995 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 3 sent 1008 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 4 sent 990 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 5 sent 999 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 6 sent 1021 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
+End1: Node 7 sent 977 packets.
+All soruces totally sent 6983 packets. (in "gsrc->end")
+Simulation time: 55000.000000 s.
+End.
+
