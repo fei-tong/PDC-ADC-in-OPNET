@@ -1,4 +1,4 @@
-/* dra_bkgnoise.ps.c */                                                       
+/* dra_bkgnoise.ps.c  */                                                       
 /* Default background noise model for radio link Transceiver Pipeline */
 
 /****************************************/
@@ -31,13 +31,13 @@ dra_bkgnoise_wsn_mt (OP_SIM_CONTEXT_ARG_OPT_COMMA Packet * pkptr)
 	double		rx_noisefig, rx_temp, rx_bw;
 	double		bkg_temp, bkg_noise, amb_noise;
 	
-//自加变量开始
+//脳脭录脫卤盲脕驴驴陋脢录
 	Objid				tx_objid;
 	Boolean				debug = OPC_FALSE;
 	char				line0_buf [512];
 	int					pk_id;
 //	char				line1_buf [512];
-//自加变量结束
+//脳脭录脫卤盲脕驴陆谩脢酶
 
 	/** Compute noise sources other than transmission interference. **/
 	FIN_MT (dra_bkgnoise_wsn (pkptr));
@@ -60,7 +60,7 @@ dra_bkgnoise_wsn_mt (OP_SIM_CONTEXT_ARG_OPT_COMMA Packet * pkptr)
 	/* Calculate in-band ambient noise. */
 	amb_noise = rx_bw * AMB_NOISE_LEVEL;
 
-//自加代码开始
+//脳脭录脫麓煤脗毛驴陋脢录
 	pk_id=op_pk_id(pkptr);
 	//added by Fei: obtain the id of the transmitter
 	tx_objid = op_td_get_int(pkptr, OPC_TDA_RA_TX_OBJID);
@@ -75,7 +75,7 @@ dra_bkgnoise_wsn_mt (OP_SIM_CONTEXT_ARG_OPT_COMMA Packet * pkptr)
 				bkg_noise=%E.\n",pk_id,(amb_noise + bkg_noise));
 		op_sim_message (line0_buf, "");
 	}
-//自加代码结束
+//脳脭录脫麓煤脗毛陆谩脢酶
 	
 	/* Put the sum of both noise sources in the packet transmission data attr.*/
 	op_td_set_dbl (pkptr, OPC_TDA_RA_BKGNOISE, (amb_noise + bkg_noise));
