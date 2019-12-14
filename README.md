@@ -7,6 +7,8 @@ The code has also been utilized for the modeling and analysis of linear sensor n
 
 F. Tong, L. Zheng, M. Ahmadi, M. Ni, J. Pan, `Modeling and Analyzing Duty-Cycling, Pipelined-Scheduling MACs for Linear Sensor Networks`, IEEE Transactions on Vehicular Technology (TVT), 65(4):2608–2620, Apr. 2016. (http://dx.doi.org/10.1109/TVT.2015.2426708)
 
+Fei Tong, S. He, J. Pan, “Modeling and Analysis for Data Collection in Duty-Cycled Linear Sensor Networks with Pipelined-Forwarding Feature”, IEEE Internet of Things Journal, 6(6):9489-9502, Dec. 2019.
+
 and 
 
 F. Tong, L. Zheng, M. Ahmadi, M. Ni, J. Pan, `Modeling Duty-cycling MAC Protocols with Pipelined Scheduling for Linear Sensor Networks`, IEEE/CIC International Conference on Communications in China (ICCC), pp. 813–817, Oct. 2014. (http://dx.doi.org/10.1109/ICCChina.2014.7008388)
