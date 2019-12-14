@@ -1,4 +1,4 @@
-OPC_INTRPT_STAT
+OPC_INTRPT_STAT 
 
 /* Issue a transmission complete stat once the packet has successfully 	*/
 /* been transmitted from the source station								*/						 
@@ -16,7 +16,7 @@ OPC_INTRPT_STAT
 
 
 
-//º¯Êý
+//ÂºÂ¯ÃŠÃ½
 wlan_interrupts_process
 
   wlan_mac_rcv_channel_status_update
