@@ -1,4 +1,4 @@
-/* dra_ecc.ps.c */
+/* dra_ecc.ps.c  */
 /* Default error correction model for radio link			*/
 /* Transceiver Pipeline. This model uses the receiver		*/
 /* channel state information to update the signal lock		*/
